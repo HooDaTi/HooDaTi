@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HooDaTi
 - 👀 I’m interested in coding websites and games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning js/vue
 - 💞️ I’m looking to collaborate on creating website
 
 <!---
