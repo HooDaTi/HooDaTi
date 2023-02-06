@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HooDaTi
 - 👀 I’m interested in coding websites and games
-- 🌱 I’m currently learning js/vue
+- 🌱 I’m currently learning from the Fullstack Web Development course on Udemy
 - 💞️ I’m looking to collaborate on creating website
 
 <!---
