@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HooDaTi
 - 👀 I’m interested in programming websites and games
-- 🌱 I’m currently learning from the Fullstack Web Development course on Udemy
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on creating website
 
 <!---
